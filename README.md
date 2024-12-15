@@ -131,9 +131,9 @@ The database contains the following tables:
 
 ---
 
-## Screenshots
+# Walkthrough Video
 
-(Include a screenshot of the CLI interface here once the project is running.)
+To see a walkthrough of the application, [click here to view the video](https://drive.google.com/file/d/1aj_9IPNymCee7P7YGri01q6gKgx0fdUZ/view).
 
 ---
 
