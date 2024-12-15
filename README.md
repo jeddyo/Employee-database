@@ -23,7 +23,7 @@ The Employee Database is a command-line interface (CLI) application that allows 
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repository-link>
+   git clone <(https://github.com/jeddyo/Employee-database)>
    cd employee-cms
    ```
 
